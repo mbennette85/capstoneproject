@@ -1,0 +1,21 @@
+{
+  "name": "capstonepro",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Michael Bennette"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
