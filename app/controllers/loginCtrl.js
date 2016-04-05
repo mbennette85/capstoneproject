@@ -5,12 +5,12 @@ tC.controller("LoginCtrl",
   "$scope",
   "$location",
   "$http",
-  // "authFactory",
+  "authFactory",
   "firebaseURL",
     
 
 
-  function ($scope, $location, $http, firebaseURL) {
+  function ($scope, $location, $http, authFactory, firebaseURL) {
 
     $scope.text = 'Hello, welcome to My Travel Companion. Please sign in or register. ';
     // Local variables

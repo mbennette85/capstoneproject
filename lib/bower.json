@@ -16,7 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+    "angularfire": "^1.2.0"
   },
   "devDependencies": {
     "angular-route": "^1.5.2"
